@@ -2,19 +2,16 @@
 
 ---
 
-🎓 **Estudiante de 2º DAM** en el IES Alixar  
+🎓 **Estudiante de 2º DAM** en el IES Alonso de Madrigal (Avila) 
 💻 Apasionado por el **desarrollo Android**, **Kotlin** y **arquitectura limpia (Clean Architecture)**  
-☁️ Aprendiendo sobre **APIs con Ktor** y **bases de datos PostgreSQL**
 
 ---
 
 ## 🧠 Sobre mí
 
-- 📱 Desarrollador Android en formación  
-- ☁️ Explorando Ktor y cloud computing  
+- 📱 Desarrollador Android 
 - 🧩 Trabajo en el proyecto educativo **IESAM-ERP** (módulo de *Clientes*)  
-- 💡 Me interesa el desarrollo de **apps móviles** e **IoT**  
-- 🧠 Siempre aprendiendo nuevas tecnologías  
+- 💡 Me interesa el desarrollo de **apps móviles**    
 
 ---
 
